@@ -25,6 +25,6 @@
         (at panel l5)
     )
     (:goal
-        (and (at coin1 l2) (at coin2 l4) (at coin1 l6))
+        (and (at coin1 l2) (at coin2 l4) (at coin3 l6))
     )
 )
